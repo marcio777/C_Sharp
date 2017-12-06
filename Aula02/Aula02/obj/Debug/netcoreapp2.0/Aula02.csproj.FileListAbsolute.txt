@@ -1,0 +1,11 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\bin\Debug\netcoreapp2.0\Aula02.deps.json
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\bin\Debug\netcoreapp2.0\Aula02.runtimeconfig.json
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\bin\Debug\netcoreapp2.0\Aula02.runtimeconfig.dev.json
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\bin\Debug\netcoreapp2.0\Aula02.dll
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\bin\Debug\netcoreapp2.0\Aula02.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\obj\Debug\netcoreapp2.0\Aula02.csprojResolveAssemblyReference.cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\obj\Debug\netcoreapp2.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\obj\Debug\netcoreapp2.0\Aula02.AssemblyInfoInputs.cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\obj\Debug\netcoreapp2.0\Aula02.AssemblyInfo.cs
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\obj\Debug\netcoreapp2.0\Aula02.dll
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Aula02\Aula02\obj\Debug\netcoreapp2.0\Aula02.pdb
