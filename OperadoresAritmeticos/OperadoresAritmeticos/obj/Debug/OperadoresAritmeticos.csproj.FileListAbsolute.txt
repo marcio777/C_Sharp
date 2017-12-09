@@ -1,0 +1,6 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb

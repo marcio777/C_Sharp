@@ -1,0 +1,7 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Variaveis\Variaveis\obj\Debug\Variaveis.csprojResolveAssemblyReference.cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
